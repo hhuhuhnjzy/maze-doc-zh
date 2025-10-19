@@ -1,0 +1,4 @@
+# requirements-docs.txt
+sphinxcontrib-httpdomain
+sphinx-copybutton
+sphinx-rtd-theme
